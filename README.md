@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Arunodaya Sachinthana</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
@@ -10,13 +11,7 @@
 - 📫 How to reach me **arunodayasachinthana@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arunodayasachinthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunodayasachinthana" height="30" width="40" /></a>
-<a href="https://fb.com/arunodaya sachinthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arunodaya sachinthana" height="30" width="40" /></a>
-<a href="https://instagram.com/arunodaya sachinthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunodaya sachinthana" height="30" width="40" /></a>
-</p>
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -41,6 +36,13 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunodaya27&show_icons=true&locale=en" alt="arunodaya27" /></p>
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arunodayasachinthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunodayasachinthana" height="30" width="40" /></a>
+<a href="https://fb.com/arunodaya sachinthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arunodaya sachinthana" height="30" width="40" /></a>
+<a href="https://instagram.com/arunodaya sachinthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunodaya sachinthana" height="30" width="40" /></a>
+</p>
 <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee Arunodaya27"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee Arunodaya27" /></a></p><br><br>
